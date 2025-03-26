@@ -2,7 +2,7 @@
 
 #Iniciei o projeto pelo backend
 
-#Integrado a aplicação com o banco de dados MySql
+- Integrado a aplicação com o banco de dados MySql
 #Criado as Models Products e Category
 #feito a migration para integração com o banco
 #Criado o frontEnd para login e registro com Vue
